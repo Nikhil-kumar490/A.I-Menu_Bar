@@ -32,9 +32,6 @@ Let Gradle sync and click ▶️ Run
 
 (Optional) Integrate with AI APIs like OpenAI, Firebase ML, or Hugging Face for smart features
 
-📷 Screenshots
-
-(Add your app screenshots here — consider adding one with AI mockup integration)
 
 🛠 Tech Stack
 
